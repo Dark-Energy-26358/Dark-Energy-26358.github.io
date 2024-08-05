@@ -1,0 +1,12 @@
+current directory: /home/vbatts/src/Dark-Energy-26358.github.io/vendor/bundle/ruby/3.1.0/gems/sass-embedded-1.77.8/ext/sass
+/usr/bin/ruby3.1 -I/usr/lib/ruby/vendor_ruby -rrubygems /home/vbatts/src/Dark-Energy-26358.github.io/vendor/bundle/ruby/3.1.0/gems/rake-13.2.1/exe/rake RUBYARCHDIR\=/home/vbatts/src/Dark-Energy-26358.github.io/vendor/bundle/ruby/3.1.0/extensions/x86_64-linux/3.1.0/sass-embedded-1.77.8 RUBYLIBDIR\=/home/vbatts/src/Dark-Energy-26358.github.io/vendor/bundle/ruby/3.1.0/extensions/x86_64-linux/3.1.0/sass-embedded-1.77.8
+gem install --force --install-dir /home/vbatts/src/Dark-Energy-26358.github.io/vendor/bundle/ruby/3.1.0/gems/sass-embedded-1.77.8/ext/sass/ruby --no-document --ignore-dependencies --platform x86_64-linux-gnu --version 1.77.8 sass-embedded
+fetch https://github.com/sass/dart-sass/releases/download/1.77.8/dart-sass-1.77.8-linux-x64.tar.gz
+tar -vxC . -f dart-sass-1.77.8-linux-x64.tar.gz --no-same-owner --no-same-permissions
+rm -rf /home/vbatts/src/Dark-Energy-26358.github.io/vendor/bundle/ruby/3.1.0/gems/sass-embedded-1.77.8/ext/sass/ruby
+mkdir -p .
+dart-sass/src/LICENSE
+dart-sass/src/dart
+dart-sass/src/sass.snapshot
+dart-sass/sass
+rm dart-sass-1.77.8-linux-x64.tar.gz
