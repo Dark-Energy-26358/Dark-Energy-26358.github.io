@@ -5,6 +5,7 @@
 layout: home
 ---
 
-https://my.firstinspires.org/JoinTeam/Welcome/c3423e4f-51a2-11ef-ad2e-00505699b848
-
 Team updates and information
+
+To register for the team, [register on firstinspires.org](https://my.firstinspires.org/JoinTeam/Welcome/c3423e4f-51a2-11ef-ad2e-00505699b848).
+
