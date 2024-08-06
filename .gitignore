@@ -2,3 +2,4 @@
 .frontmatter/
 frontmatter.json
 _site
+#vendor/
