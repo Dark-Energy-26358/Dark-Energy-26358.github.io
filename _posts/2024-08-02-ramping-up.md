@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "hello, world!"
+
+title:  "Ramping Up"
+author: vbatts
+
 date:   2024-08-02 16:42:15 -0400
-categories: update
+categories: [Meeting]
+tags: [update]
 ---
 
 The team shaping up and off to the races.
