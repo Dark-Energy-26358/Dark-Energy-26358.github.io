@@ -3,3 +3,4 @@
 frontmatter.json
 _site
 #vendor/
+*.swp
