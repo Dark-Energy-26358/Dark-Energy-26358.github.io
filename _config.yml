@@ -42,6 +42,8 @@ plugins:
 github:
   username: Dark-Energy-26358
 
+avatar: "/commons/avatar.jpg"
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
