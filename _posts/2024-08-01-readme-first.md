@@ -1,5 +1,5 @@
 ---
-title: "Hello, World!"
+title: "README First"
 description: "Information on registering for the team"
 date: 2024-08-01
 preview: ""
