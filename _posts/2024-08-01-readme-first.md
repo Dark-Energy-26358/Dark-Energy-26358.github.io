@@ -12,4 +12,5 @@ Welcome to the home of Dark Energy, an enthusiastic and competitive FIRST® Tech
 Founded in the summer of 2024, team #26358 is an FTC team in Raleigh-Durham area of North Caronlina.
 
 Register with FIRST:[Join FIRST® Tech Challenge Team #26358 Dark Energy!](https://my.firstinspires.org/JoinTeam/Welcome/c3423e4f-51a2-11ef-ad2e-00505699b848).
+
 Register with us: [Dark Energy Team Registration](https://docs.google.com/forms/d/e/1FAIpQLScKeHanOxHFN4Xyz6iewvIojVHef2kGuu3H_KIJytR6HRndSg/viewform)
