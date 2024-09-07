@@ -17,9 +17,13 @@ The easiest way is to use our [PayPal Donation](https://www.paypal.com/donate/?h
 
 ![](/img/sponsor-qrcode.png)
 
+### Tax Deduction
+
+Dark Energy team is operating with the 501(c)(3) org of "Anderson Robotics" **EIN 99-4279338**.
+
 ## Sponsorship Levels
 
-- **$300** (or more!) Name/Logo on T-Shirts and Website 👕
+- **$300** (or more!) Name/Logo on T-Shirts and Website 👕 (time sensitive for printing of team shirts)
 - **$100** Name/Logo on Website 💻
 - **$50** Our appreciation! 😻
 
