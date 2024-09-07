@@ -15,7 +15,7 @@ Dark Energy is powering tomorrow's engineers, programmers, designers and thinker
 The easiest way is to use our [PayPal Donation](https://www.paypal.com/donate/?hosted_button_id=SEZAL4TK22HDQ) page.
 (Does not require a paypal account)
 
-![](/img/sponsor-qrcode.png)
+![](/assets/img/sponsor-qrcode.png)
 
 ### Tax Deduction
 
