@@ -6,7 +6,7 @@ order: 4
 title: About
 ---
 
-Welcome to Dark Energy, an enthusiastic and competitive FIRST® Tech Challenge team based in Raleigh-Durham area of North Caronlina.! Our team is fueled by a shared passion for robotics, innovation, and teamwork. Our team is made up of fun and motivated students aged 12 to 18 who are ready to dive into the exciting challenges of the upcoming season!
+Welcome to Dark Energy, an enthusiastic and competitive FIRST® Tech Challenge team based in Raleigh-Durham area of North Carolina! Our team is fueled by a shared passion for robotics, innovation, and teamwork. Our team is made up of fun and motivated students aged 12 to 18 who are ready to dive into the exciting challenges of the upcoming season!
 
 Who We Are:
 
