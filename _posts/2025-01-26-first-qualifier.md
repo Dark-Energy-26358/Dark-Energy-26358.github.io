@@ -15,13 +15,13 @@ This was an exciting first qualifier event for our rookie team. Especially as we
 
 <img src="/assets/img/PXL_20250125_132839211.jpg" alt="Dark Energy at the Field Inspection" width="700"/>
 
-(Dark Energy Team at the Field inspection)
+(Dark Energy Team at the Field Inspection)
 
-<img src="/assets/img/PXL_20250125_174143091.jpg" alt="Dark Energy talking with Judges at the team pit" width="700"/>
+<img src="/assets/img/PXL_20250125_174143091.jpg" alt="Dark Energy talking with Judges at the Team Pit" width="700"/>
 
-(Dark Energy talking with Judges at the team pit)
+(Dark Energy talking with Judges at the Team Pit)
 
 
 We may have come in [last place on the leaderboard](https://ftc-events.firstinspires.org/2024/USNCWSQ1/rankings), but we did receive [2nd place for the Control Award](https://ftc-events.firstinspires.org/team/26358).
 
-We have two weeks to get more driver time and make improvements before we head to the [Emerging Technology Institue for another qualifier](https://ftc-events.firstinspires.org/2024/USNCRSQ).
+We have two weeks to get more driver time and make improvements before we head to the [Emerging Technology Institute for another qualifier](https://ftc-events.firstinspires.org/2024/USNCRSQ).
