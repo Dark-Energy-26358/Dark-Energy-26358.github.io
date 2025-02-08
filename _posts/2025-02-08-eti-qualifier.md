@@ -23,6 +23,9 @@ Seeing the Polaris military side-by-sides, and the Lordstown Endurance vehicles 
 Everyone was imaging having access to such a workspace.
 And bonus points for not worrying about scuffing a nice basketball court floor. :-D
 
+
+![](/assets/img/PXL_20250208_131448184.jpg)
+
 The team came out to compete!
 One member down to sickness (Raahi, our marketing and first tier driver).
 Roald stepped in to drive, and Elias as the manipulator.
@@ -47,4 +50,12 @@ Then teleop we managed to get two specimans on the top bar, despite 1 motor not 
 Sadly the not fully clipped speciman fell back onto the top of the robot itself, which we couldn't remove.
 So, we fellback to parking in the observation zone and being clear of alliance [team 25852](https://ftc-events.firstinspires.org/2024/team/25852)'s pusher-bot so that they could continue scoring points.
 
-![](/assets/img/PXL_20250208_131448184.jpg)
+Our final qualifier match of the day our alliance won.
+This was our first winning match of the two qualifier events so far.
+The team was stoked.
+This also got our ranking for the day to 8 of 10!
+
+![](/assets/img/Screenshot_From_2025-02-08%2014-27-59.png)
+
+Though we did not get selected for playoffs for this qualifier, it was a great success.
+The 4 teams that did get selected are well deserved (25863, 7083, 23890, and 27240).
