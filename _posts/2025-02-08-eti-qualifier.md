@@ -56,7 +56,7 @@ Unfortunately, right before endgame, the robot went haywire, driving itself into
 Our final qualifier match of the day our alliance won.
 This was our first winning match of the two qualifier events so far.
 The team was stoked.
-This also got our ranking for the day to 8 of 10! We also had the second-best average auto score at 5.8 throughout all of the teams!
+This also got our ranking for the day to 8 of 10! We also had the second-best average auto score at 5.80!
 
 ![](/assets/img/Screenshot_From_2025-02-08%2014-27-59.png)
 
