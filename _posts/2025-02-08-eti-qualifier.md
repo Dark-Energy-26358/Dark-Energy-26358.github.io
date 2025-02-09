@@ -32,7 +32,7 @@ Roald stepped in to drive, and Elias as the manipulator.
 Matthew as the driver coach, and Ethan as the "human player" to clip the specimans.
 
 Last night we had a new pincher 3D printing as the current one had broken during practice.
-And we had to replace the axel on the manipulator arm (now steel instead of aluminum).
+And we had to replace the axle on the manipulator arm (now steel instead of aluminum).
 And the ON/OFF switch replaced as there was a loose connection on the existing one that could have been the cause of random robot "disconnects".
 
 So many challenges the team is working through, and still keeping chugging along!
@@ -46,14 +46,17 @@ We had **5 minutes** turn-around before the second match of the day.
 The team quickly tightened and adjusted what they could, and were back on the field.
 No time for tears, the team was down to business on fixing the best they could and jumping back in there.
 Our "drive right" autonomous got us into the observation zone by using April tags.
-Then teleop we managed to get two specimans on the top bar, despite 1 motor not working.
-Sadly the not fully clipped speciman fell back onto the top of the robot itself, which we couldn't remove.
+Then teleop we managed to get two specimens on the top bar, despite 1 motor not working.
+Sadly the not fully clipped specimen fell back onto the top of the robot itself, which we couldn't remove.
 So, we fellback to parking in the observation zone and being clear of alliance [team 25852](https://ftc-events.firstinspires.org/2024/team/25852)'s pusher-bot so that they could continue scoring points.
+
+In our fourth match, we were leading by a significant amount of points.
+Unfortunately, right before endgame, the robot went haywire, driving itself into the opposing ascent zone and then disconnecting, giving the opposing team 20 points in penalties plus a level 3 ascent (30 points). Although we ended up losing the match, it was pretty close and we were pretty satisified with our perfomance for the first couple minutes of the game. Luckily, we had no disconnects for the rest of the day!
 
 Our final qualifier match of the day our alliance won.
 This was our first winning match of the two qualifier events so far.
 The team was stoked.
-This also got our ranking for the day to 8 of 10!
+This also got our ranking for the day to 8 of 10! We also had the second-best average auto score at 5.8 throughout all of the teams!
 
 ![](/assets/img/Screenshot_From_2025-02-08%2014-27-59.png)
 
