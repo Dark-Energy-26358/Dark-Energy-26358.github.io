@@ -9,7 +9,7 @@ categories:
     - Qualifier
 ---
 
-Qualifier Event: https://ftc.events/2024/USNCRSQ
+Qualifier Event: [ftc.events/2024/USNCRSQ](https://ftc.events/2024/USNCRSQ)
 
 An early morning drive to Red Springs, NC.
 
